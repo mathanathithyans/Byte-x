@@ -1,17 +1,3 @@
 event_id,timestamp_str,video_time_sec,frame_idx,person_id,action,anomaly_type,zone,severity,details
-1,00:00:04.08,4.09,245,1,Running,Rapid Movement / Running,General Campus Courtyard,WARNING,Unusual high speed movement (240.0 px/s) in hallway/campus
-2,00:00:07.42,7.42,445,1,Running,Rapid Movement / Running,General Campus Courtyard,WARNING,Unusual high speed movement (292.5 px/s) in hallway/campus
-3,00:00:08.20,8.21,492,1,Running,Restricted Zone Entry,Restricted Zone: Custom Area,CRITICAL,Unauthorized entry detected in Restricted Zone: Custom Area (Dwell: 0.0s)
-4,00:00:08.20,8.21,492,1,Running,Rapid Movement / Running,Restricted Zone: Custom Area,WARNING,Unusual high speed movement (282.6 px/s) in hallway/campus
-5,00:00:10.70,10.71,642,1,Walking,Restricted Zone Entry,Restricted Zone: Custom Area,CRITICAL,Unauthorized entry detected in Restricted Zone: Custom Area (Dwell: 2.5s)
-6,00:00:12.20,12.21,732,1,Running,Rapid Movement / Running,Restricted Zone: Custom Area,WARNING,Unusual high speed movement (280.5 px/s) in hallway/campus
-7,00:00:13.72,13.73,823,1,Running,Rapid Movement / Running,General Campus Courtyard,WARNING,Unusual high speed movement (250.6 px/s) in hallway/campus
-8,00:00:17.56,17.56,1053,1,Running,Rapid Movement / Running,General Campus Courtyard,WARNING,Unusual high speed movement (379.7 px/s) in hallway/campus
-9,00:00:20.46,20.47,1227,1,Running,Rapid Movement / Running,General Campus Courtyard,WARNING,Unusual high speed movement (260.6 px/s) in hallway/campus
-10,00:00:22.40,22.4,1343,1,Running,Restricted Zone Entry,Restricted Zone: Custom Area,CRITICAL,Unauthorized entry detected in Restricted Zone: Custom Area (Dwell: 0.0s)
-11,00:00:22.40,22.4,1343,1,Running,Rapid Movement / Running,Restricted Zone: Custom Area,WARNING,Unusual high speed movement (276.4 px/s) in hallway/campus
-12,00:00:24.90,24.9,1493,1,Walking,Restricted Zone Entry,Restricted Zone: Custom Area,CRITICAL,Unauthorized entry detected in Restricted Zone: Custom Area (Dwell: 2.5s)
-13,00:00:26.00,26.0,1559,1,Running,Rapid Movement / Running,Restricted Zone: Custom Area,WARNING,Unusual high speed movement (250.6 px/s) in hallway/campus
-14,00:00:28.53,28.54,1711,1,FALLEN DOWN,Abnormal Behavior: Fall Detected,General Campus Courtyard,CRITICAL,Entity #1 fell down / collapsed on ground (Aspect ratio: 0.48)
-15,00:00:31.04,31.04,1861,1,FALLEN DOWN,Abnormal Behavior: Fall Detected,General Campus Courtyard,CRITICAL,Entity #1 fell down / collapsed on ground (Aspect ratio: 1.05)
-16,00:00:33.54,33.54,2011,1,FALLEN DOWN,Abnormal Behavior: Fall Detected,General Campus Courtyard,CRITICAL,Entity #1 fell down / collapsed on ground (Aspect ratio: 1.12)
+1,00:00:03.45,3.45,207,1,Walking,Restricted Zone Entry,Restricted Zone: Lab-01 / Hazardous,CRITICAL,Unauthorized entry detected in Restricted Zone: Lab-01 / Hazardous (Dwell: 0.0s)
+2,00:00:04.08,4.09,245,1,Running,Rapid Movement / Running,Restricted Zone: Lab-01 / Hazardous,WARNING,Unusual high speed movement (240.0 px/s) in hallway/campus
