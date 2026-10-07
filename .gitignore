@@ -1,0 +1,35 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+node_modules/
+sentra_frontend/node_modules/
+sentra_frontend/dist/
+
+# Large model weights (Keep lightweight yolov8n-pose.pt 6.8MB for instant reproduction)
+*.pt
+!yolov8n-pose.pt
+!yolov8n.pt
+
+# Large video files (Keep test.mp4 8.1MB for zero-config demonstration)
+output*.mp4
+output.mp4
+*.avi
+runs/
+pipeline_output/
+annotated_frames/
+cleaned/
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

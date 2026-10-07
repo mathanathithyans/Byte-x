@@ -1,0 +1,27 @@
+# ==============================================================================
+# SENTRA-X / HNX26PSI07 Requirements Specification
+# Autonomous Vision & Behaviour Understanding System
+# Team: BYTE-X
+# ==============================================================================
+
+# Core Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.2.0
+opencv-python>=4.8.0.76
+numpy>=1.24.0
+
+# Backend API & Asynchronous Web Server
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+python-multipart>=0.0.6
+
+# Cloud Database & Telemetry
+supabase>=2.3.0
+requests>=2.31.0
+
+# Scientific & Utility Libraries
+matplotlib>=3.7.0
+pandas>=2.0.0
+Pillow>=10.0.0
